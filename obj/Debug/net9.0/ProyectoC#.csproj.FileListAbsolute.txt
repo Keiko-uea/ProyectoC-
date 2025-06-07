@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\ProyectoC#\obj\Debug\net9.0\ProyectoC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\ProyectoC#\obj\Debug\net9.0\ProyectoC#.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\ProyectoC#\obj\Debug\net9.0\ProyectoC#.AssemblyInfo.cs
+C:\Users\HP\Documents\ProyectoC#\obj\Debug\net9.0\ProyectoC#.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\ProyectoC#\bin\Debug\net9.0\ProyectoC#.exe
+C:\Users\HP\Documents\ProyectoC#\bin\Debug\net9.0\ProyectoC#.deps.json
+C:\Users\HP\Documents\ProyectoC#\bin\Debug\net9.0\ProyectoC#.runtimeconfig.json
+C:\Users\HP\Documents\ProyectoC#\bin\Debug\net9.0\ProyectoC#.dll
+C:\Users\HP\Documents\ProyectoC#\bin\Debug\net9.0\ProyectoC#.pdb
+C:\Users\HP\Documents\ProyectoC#\obj\Debug\net9.0\ProyectoC#.dll
+C:\Users\HP\Documents\ProyectoC#\obj\Debug\net9.0\refint\ProyectoC#.dll
+C:\Users\HP\Documents\ProyectoC#\obj\Debug\net9.0\ProyectoC#.pdb
+C:\Users\HP\Documents\ProyectoC#\obj\Debug\net9.0\ProyectoC#.genruntimeconfig.cache
+C:\Users\HP\Documents\ProyectoC#\obj\Debug\net9.0\ref\ProyectoC#.dll
