@@ -12,3 +12,4 @@ C:\Users\HP\Documents\ProyectoC#\obj\Debug\net9.0\refint\ProyectoC#.dll
 C:\Users\HP\Documents\ProyectoC#\obj\Debug\net9.0\ProyectoC#.pdb
 C:\Users\HP\Documents\ProyectoC#\obj\Debug\net9.0\ProyectoC#.genruntimeconfig.cache
 C:\Users\HP\Documents\ProyectoC#\obj\Debug\net9.0\ref\ProyectoC#.dll
+C:\Users\HP\Documents\ProyectoC#\obj\Debug\net9.0\ProyectoC#.sourcelink.json

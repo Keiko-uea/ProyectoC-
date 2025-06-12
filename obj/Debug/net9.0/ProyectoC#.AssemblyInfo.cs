@@ -10,13 +10,5 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ProyectoC#")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("ProyectoC#")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ProyectoC#")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
-
 // Generado por la clase WriteCodeFragment de MSBuild.
 
