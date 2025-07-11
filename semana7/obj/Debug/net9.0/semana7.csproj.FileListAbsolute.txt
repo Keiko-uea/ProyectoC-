@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\ProyectoC#\semana7\bin\Debug\net9.0\semana7.exe
+C:\Users\HP\Documents\ProyectoC#\semana7\bin\Debug\net9.0\semana7.deps.json
+C:\Users\HP\Documents\ProyectoC#\semana7\bin\Debug\net9.0\semana7.runtimeconfig.json
+C:\Users\HP\Documents\ProyectoC#\semana7\bin\Debug\net9.0\semana7.dll
+C:\Users\HP\Documents\ProyectoC#\semana7\bin\Debug\net9.0\semana7.pdb
+C:\Users\HP\Documents\ProyectoC#\semana7\obj\Debug\net9.0\semana7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\ProyectoC#\semana7\obj\Debug\net9.0\semana7.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\ProyectoC#\semana7\obj\Debug\net9.0\semana7.AssemblyInfo.cs
+C:\Users\HP\Documents\ProyectoC#\semana7\obj\Debug\net9.0\semana7.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\ProyectoC#\semana7\obj\Debug\net9.0\semana7.sourcelink.json
+C:\Users\HP\Documents\ProyectoC#\semana7\obj\Debug\net9.0\semana7.dll
+C:\Users\HP\Documents\ProyectoC#\semana7\obj\Debug\net9.0\refint\semana7.dll
+C:\Users\HP\Documents\ProyectoC#\semana7\obj\Debug\net9.0\semana7.pdb
+C:\Users\HP\Documents\ProyectoC#\semana7\obj\Debug\net9.0\semana7.genruntimeconfig.cache
+C:\Users\HP\Documents\ProyectoC#\semana7\obj\Debug\net9.0\ref\semana7.dll
